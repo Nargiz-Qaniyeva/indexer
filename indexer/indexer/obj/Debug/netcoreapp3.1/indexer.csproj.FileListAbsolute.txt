@@ -1,0 +1,5 @@
+C:\Users\nargi\Desktop\New folder (2)\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.csproj.AssemblyReference.cache
+C:\Users\nargi\Desktop\New folder (2)\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nargi\Desktop\New folder (2)\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.AssemblyInfoInputs.cache
+C:\Users\nargi\Desktop\New folder (2)\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.AssemblyInfo.cs
+C:\Users\nargi\Desktop\New folder (2)\indexer\indexer\obj\Debug\netcoreapp3.1\indexer.csproj.CoreCompileInputs.cache
